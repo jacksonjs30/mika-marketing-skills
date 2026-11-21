@@ -15,7 +15,7 @@
 | 6 | meta-ads-launch-mike-kuznetsov-mika-marketing | Сборка кампаний в кабинете Meta черновиком | [zip](zip/meta-ads-launch-mike-kuznetsov-mika-marketing.zip) |
 | 7 | ads-reporting-mike-kuznetsov-mika-marketing | Отчёты 00:00 / 08:00 / понедельник, алерты | [zip](zip/ads-reporting-mike-kuznetsov-mika-marketing.zip) |
 
-**Все 6 одним архивом:** [all-skills-mike-kuznetsov-mika-marketing.zip](zip/all-skills-mike-kuznetsov-mika-marketing.zip) (распакуйте и загрузите каждый zip / папку по очереди).
+**Все 6 одним архивом:** [all-skills-mike-kuznetsov-mika-marketing.zip](zip/all-skills-mike-kuznetsov-mika-marketing.zip) - внутри 6 отдельных zip. Распакуйте архив и загрузите в Claude каждый из 6 zip по очереди (Claude принимает один скилл на один zip).
 
 ## Установка (10 минут, один раз)
 
