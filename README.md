@@ -1,6 +1,6 @@
 # Mika Ads · Mike Kuznetsov · Mika Marketing
 
-Система из 6 скиллов для Claude: запуск рекламы Meta (Facebook / Instagram) от анализа лендинга до ежедневных отчётов. Маркетолог принимает решения, Claude делает работу и после каждого шага показывает отчёт.
+Система из 7 скиллов для Claude: запуск рекламы Meta (Facebook / Instagram) от анализа лендинга до ежедневных отчётов. Маркетолог принимает решения, Claude делает работу и после каждого шага показывает отчёт.
 
 Автор: Михаил Кузнецов (Mike Kuznetsov), Mika Marketing · [mikaagency.com.ua](https://mikaagency.com.ua) · [Telegram](https://t.me/mihailfunnels)
 
@@ -12,15 +12,16 @@
 | 1-3 | landing-competitors-mike-kuznetsov-mika-marketing | Анализ лендинга, конкуренты, Ad Library | [zip](https://github.com/jacksonjs30/mika-marketing-skills/raw/main/zip/landing-competitors-mike-kuznetsov-mika-marketing.zip) |
 | 4 | audience-research-mike-kuznetsov-mika-marketing | Аудитория: JTBD, боли, страхи, возражения, CJM | [zip](https://github.com/jacksonjs30/mika-marketing-skills/raw/main/zip/audience-research-mike-kuznetsov-mika-marketing.zip) |
 | 5 | ad-creatives-mike-kuznetsov-mika-marketing | Креативы: ТЗ дизайнеру или сценарий видео | [zip](https://github.com/jacksonjs30/mika-marketing-skills/raw/main/zip/ad-creatives-mike-kuznetsov-mika-marketing.zip) |
+| 5.5 | creative-pretest-mike-kuznetsov-mika-marketing | Претест готовых креативов через AI-аватары: что запускать | [zip](https://github.com/jacksonjs30/mika-marketing-skills/raw/main/zip/creative-pretest-mike-kuznetsov-mika-marketing.zip) |
 | 6 | meta-ads-launch-mike-kuznetsov-mika-marketing | Сборка кампаний в кабинете Meta черновиком | [zip](https://github.com/jacksonjs30/mika-marketing-skills/raw/main/zip/meta-ads-launch-mike-kuznetsov-mika-marketing.zip) |
 | 7 | ads-reporting-mike-kuznetsov-mika-marketing | Отчёты 00:00 / 08:00 / понедельник, алерты | [zip](https://github.com/jacksonjs30/mika-marketing-skills/raw/main/zip/ads-reporting-mike-kuznetsov-mika-marketing.zip) |
 
-**Все 6 одним архивом:** [all-skills-mike-kuznetsov-mika-marketing.zip](https://github.com/jacksonjs30/mika-marketing-skills/raw/main/zip/all-skills-mike-kuznetsov-mika-marketing.zip) - внутри 6 отдельных zip. Распакуйте архив и загрузите в Claude каждый из 6 zip по очереди (Claude принимает один скилл на один zip).
+**Все 7 одним архивом:** [all-skills-mike-kuznetsov-mika-marketing.zip](https://github.com/jacksonjs30/mika-marketing-skills/raw/main/zip/all-skills-mike-kuznetsov-mika-marketing.zip) - внутри 7 отдельных zip. Распакуйте архив и загрузите в Claude каждый из 7 zip по очереди (Claude принимает один скилл на один zip).
 
 ## Установка (10 минут, один раз)
 
-1. Скачайте 6 zip-файлов из таблицы выше.
-2. claude.ai → **Customize → Skills → «+» → Upload a skill** → загрузите каждый zip. Проверьте, что все 6 включены.
+1. Скачайте 7 zip-файлов из таблицы выше.
+2. claude.ai → **Customize → Skills → «+» → Upload a skill** → загрузите каждый zip. Проверьте, что все 7 включены.
 3. **Customize → Connectors → Add custom connector** → `https://mcp.facebook.com/ads` → войдите через Facebook (нужно для шагов 6-7).
 4. Подключите Google Sheets (для отчётов) и включите веб-поиск.
 
